@@ -1,0 +1,10 @@
+html {
+  touch-action: pan-x pan-y;
+}
+
+body {
+  background-color: rgb(82, 86, 89);
+  color: var(--primary-text-color);
+  line-height: 154%;
+  margin: 0;
+}
